@@ -1,0 +1,18 @@
+{
+  "config": {
+    "seed": 42,
+    "attempts": 6,
+    "interval_days": 14,
+    "threshold": 75.0,
+    "horizon_days": 60
+  },
+  "source_sha256": "e8f22bfde56c5e738311ddbab9e8466d3b6fe77d69d5b9af0dba859e57466f2e",
+  "students": 100,
+  "rows": [
+    600,
+    4200,
+    12600
+  ],
+  "synthetic": true,
+  "generator": "latent-mastery-v1"
+}

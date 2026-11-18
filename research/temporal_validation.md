@@ -1,0 +1,3 @@
+# Calendar validation
+
+The earliest held-out baseline is 2026-10-18. Only 0 training landmarks have completed the full classification horizon before that date. A strict calendar-forward classification benchmark is therefore unavailable in this cohort. The classification CSV uses disjoint student cohorts ordered by baseline date, with overlapping follow-up calendars. The secondary regression CSV restricts training to outcomes observed before the first held-out fifth-attempt landmark. It uses different students and a later calendar cutoff, so its errors should be interpreted separately from the main regression comparison.

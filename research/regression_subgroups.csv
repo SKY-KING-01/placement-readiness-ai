@@ -1,0 +1,10 @@
+model,group_type,group,n,students,mae
+Last score,readiness_group,developing,10,5,2.788870
+Last score,readiness_group,near,50,15,2.781656
+Last score,readiness_group,ready,15,7,2.456580
+Random Forest,readiness_group,developing,10,5,2.684712
+Random Forest,readiness_group,near,50,15,2.297120
+Random Forest,readiness_group,ready,15,7,2.218516
+CatBoost,readiness_group,developing,10,5,2.552087
+CatBoost,readiness_group,near,50,15,2.420644
+CatBoost,readiness_group,ready,15,7,2.298427
