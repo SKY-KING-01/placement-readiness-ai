@@ -47,6 +47,5 @@ Random Forest won both selections. On the 15-student classification test, ROC-AU
 | Live Python grading | Blocked or not implemented | Requires a separately verified isolated execution worker. The API continues to accept and retain source submissions. |
 | Live OpenAI verification | Implemented but untested | Requires backend API credentials and access to the selected model. The fallback path is verified. |
 | Actual placement prediction / student pilot | Blocked or not implemented | Requires consented longitudinal data, independent outcomes and outcome validation. Synthetic metrics cannot be used for selection or exclusion. |
-| GitHub publication | Blocked or not implemented | The connected repository remains public and empty. The implementation is local. |
 
 The original PowerPoint is present locally and ignored by Git because it includes student identifiers. See `source_audit.md`, `data_quality_report.md` and `migration_mapping.md` for data handling. See `research/limitations.md` for evidence limits.
